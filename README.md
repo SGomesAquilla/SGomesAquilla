@@ -1,7 +1,7 @@
 # Hello there! 👋
 
 I am passionate about learning new technologies and using them to develop solutions that optimize people's lives. I am driven by the desire to take on new experiences and challenges to become a well-rounded and experienced professional.
-I have over 2 years of experience in software development, creating web and desktop applications focused on solving problems and optimizing processes. To me, writing code without these details in mind is meaningless. Programming is not the final objective, but rather a tool to achieve it.
+I have over 2 years of experience in software development creating web and desktop applications focused on solving problems and optimizing processes. To me, writing code without these details in mind is meaningless. Programming is not the final objective, but rather a tool to achieve it.
 
 ## About Me
 
@@ -12,12 +12,12 @@ I have over 2 years of experience in software development, creating web and desk
 
 ## What I'm Working On
 
-* **Developer at Forneria Original:** Im a Developer and Analyst at Forneria Original, the greteast pizzaria delivery in Brazil. I work building and maintainig a Bussiness Inteligence App and extracting data for its reports and dashboards, such as the Franchise Complaints Report and brand-specific Sales Results.
+* **Developer at Forneria Original:** Im a Developer and Analyst at Forneria Original, the greteast pizzaria delivery in Brazil. I work building and maintainig a Bussiness Inteligence App, with Python and Streamlit, and extracting data for its reports and dashboards, such as the Franchise Complaints Report and brand-specific Sales Results.
 
 ## Main Skills
 
 [![My Skills](https://skillicons.dev/icons?i=js,vue,electron,nodejs)](https://skillicons.dev)
-[![My Skills](https://skillicons.dev/icons?i=py,django,streamlitm,sql)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=py,django,streamlit,sqlite)](https://skillicons.dev)
 
 ## Let's Connect!
 

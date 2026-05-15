@@ -1,39 +1,47 @@
 # Hello there! 👋
 
-![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=36BC7A&width=500&lines=Full-Stack+Developer;Building+BI+and+Data+Solutions;Python+%26+TypeScript+Enthusiast)
+![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=36BC7A&width=500&lines=Full-Stack+Developer;Building+BI+%26+Data+Solutions;Python+%26+TypeScript+Enthusiast)
 
-I am passionate about learning new technologies and using them to develop solutions that optimize people's lives. I am driven by the desire to take on new experiences and challenges to become a well-rounded and experienced professional.
-I have over 2 years of experience in software development creating web and desktop applications focused on solving problems and optimizing processes. To me, writing code without these details in mind is meaningless. Programming is not the final objective, but rather a tool to achieve it.
+I am a Full-Stack Developer focused on building high-impact data solutions, process automation, and scalable web applications. I believe that programming is not the final objective, but a powerful tool to solve complex operational problems and optimize workflows. 
 
-## About Me
+Beyond writing clean code, I focus heavily on collaboration, driving team momentum, and empowering the people around me to build healthy, high-performance development environments.
 
-* 2 years of experience in Full-Stack development: Front-End, Back-End, Left-End or Right-End, doesn't matter. You name it, I do it.
-* Passionate about automating and improving processes: If it improves the work of other people, I'm all for it.
-* I'm a people person: It's not just about technical skills, but about empowering/motivating the people around you. 
-* Strong team player, proactive and with excellent problem-solving abilities: Soft-Skills are also important, right ?
+---
 
-## What I'm Working On
+## 🚀 Featured Impact & Experience
 
-* **Developer at Forneria Original:** Im a Developer and Analyst at Forneria Original, the greteast pizzaria delivery in Brazil. I work building and maintainig a Bussiness Inteligence App, with Python and Streamlit, and extracting data for its reports and dashboards, such as the Franchise Complaints Report and brand-specific Sales Results.
+### 📊 Web App BI & Data Pipelines (Forneria Original)
+* **Tech Stack:** `Python` | `Streamlit` | `FastAPI` | `Pandas`
+* **The Problem:** The franchise needed to eliminate slow, manual workflows for tracking franchise complaints and brand sales results across dozens of units.
+* **The Solution:** Engineered a multi-tenant BI Web Application with RBAC access control used directly by the board of directors and over 20 franchisees. Built automated data treatment pipelines and web scraping scripts that **reduced manual report generation time by 70%** (shrinking a 3-day process down to under 24 hours).
 
-## Main Skills
+### 🌐 Scalable Web APIs & Freelance Systems
+* **Tech Stack:** `TypeScript` | `NestJS` | `React` | `PostgreSQL` | `Supabase`
+* **The Solution:** Designed and delivered robust full-stack web applications, architecting secure REST APIs, structuring relational databases, and implementing production-ready Git versioning workflows.
 
-[![My Skills](https://skillicons.dev/icons?i=js,ts,react,nodejs,nestjs,py,fastapi,sqlite,postgresql)](https://skillicons.dev)
+---
+
+## 🛠️ Main Skills
+
+[![My Skills](https://skillicons.dev/icons?i=js,ts,react,nodejs,nestjs,py,fastapi,sqlite,postgresql,vue)](https://skillicons.dev)
 
 <br/>
 
 <div>
   <a href="https://github.com/anuraghazra/github-readme-stats">
-    <img src="https://github-readme-stats.shion.dev/api?username=SGomesAquilla&show_icons=true&theme=dark" alt="SGomesAquilla's GitHub stats" height="195" style="margin-right: 15px;" />
+    <img src="https://github-readme-stats.shion.dev/api?username=SGomesAquilla&show_icons=true&theme=dark&hide=stars,prs,issues" alt="SGomesAquilla's GitHub stats" height="185" style="margin-right: 15px;" />
   </a>&nbsp;&nbsp;
   <a href="https://github.com/anuraghazra/github-readme-stats">
-    <img src="https://github-readme-stats.shion.dev/api/top-langs/?username=SGomesAquilla&layout=compact&theme=dark" alt="Top Langs" height="195" />
+    <img src="https://github-readme-stats.shion.dev/api/top-langs/?username=SGomesAquilla&layout=compact&theme=dark&exclude_langs=html,css" alt="Top Langs" height="185" />
   </a>
 </div>
 
-## Let's Connect!
+---
 
-* [LinkedIn](https://www.linkedin.com/in/sgaquilla)
-* [GitHub](https://github.com/SGomesAquilla)
+## 🤝 Let's Connect!
 
-Feel free to explore my repositories and reach out if you have any questions or would like to collaborate. Happy coding!
+* 💼 [LinkedIn](https://www.linkedin.com/in/sgaquilla)
+* 🐙 [GitHub Profile](https://github.com/SGomesAquilla)
+* ✉️ [Email Me](mailto:sgomesaquilla@gmail.com)
+
+Feel free to explore my repositories or reach out if you want to collaborate on data solutions, web apps, or automation workflows. Happy coding!

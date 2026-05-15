@@ -13,7 +13,7 @@
   <img src="https://skillicons.dev/icons?i=postgresql" alt="PostgreSQL" />
 </p>
 
-I am a Full-Stack Developer with nearly 3 years of experience specializing in web applications, data pipelines, and process automation. I see programming as a tool to solve real operational bottlenecks. Beyond the code, I focus heavily on empowering my colleagues, driving team momentum, and fostering a healthy, high-performance development environment.
+I am a Full-Stack Developer with nearly 3 years of experience specializing in web applications and backend systemns, but also workend on data pipelines, and process automation. I see programming as a tool to solve real operational bottlenecks. Beyond the code, I focus heavily on empowering my colleagues, driving team momentum, and fostering a healthy, high-performance development environment.
 
 * **Scalable Web Systems:** Architected robust full-stack web platforms and backend services using `TypeScript`, `NestJS`, `React`, and `Supabase`.
 * **Multi-Tenant BI Web App:** Built a full data dashboard with RBAC security for executives and 20+ franchise owners using `Python`, `Streamlit`, and `Pandas`.

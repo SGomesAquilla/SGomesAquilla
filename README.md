@@ -16,7 +16,8 @@ I have over 2 years of experience in software development creating web and deskt
 
 ## Main Skills
 
-[![My Skills](https://skillicons.dev/icons?i=js,ts,react,nodejs,nestjs,py,fastapi,sqlite,postgresql&perline=3)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=js,ts,react,nodejs,nestjs,py,fastapi,sqlite,postgresql)](https://skillicons.dev)
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=SGomesAquilla&show_icons=true&theme=synthwave)](https://github.com/anuraghazra/github-readme-stats)
 
 ## Let's Connect!
 

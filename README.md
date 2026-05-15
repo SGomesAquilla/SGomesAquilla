@@ -6,7 +6,7 @@ I am a Full-Stack Developer focused on building high-impact data solutions, proc
 
 Beyond writing clean code, I focus heavily on collaboration, driving team momentum, and empowering the people around me to build healthy, high-performance development environments.
 
----
+<br>
 
 ## 🚀 Featured Impact & Experience
 
@@ -19,7 +19,7 @@ Beyond writing clean code, I focus heavily on collaboration, driving team moment
 * **Tech Stack:** `TypeScript` | `NestJS` | `React` | `PostgreSQL` | `Supabase`
 * **The Solution:** Designed and delivered robust full-stack web applications, architecting secure REST APIs, structuring relational databases, and implementing production-ready Git versioning workflows.
 
----
+<br>
 
 ## 🛠️ Main Skills
 

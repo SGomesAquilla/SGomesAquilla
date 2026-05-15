@@ -1,5 +1,9 @@
 ![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=36BC7A&width=500&lines=Full-Stack+Developer;Building+BI+%26+Data+Solutions;Python+%26+TypeScript+Enthusiast)
 
+<br/>
+
+# Hello there! 👋
+
 <p align="left">
   <img src="https://skillicons.dev/icons?i=js" alt="JS" />&nbsp;&nbsp;&nbsp;&nbsp;
   <img src="https://skillicons.dev/icons?i=ts" alt="TS" />&nbsp;&nbsp;&nbsp;&nbsp;
@@ -24,7 +28,7 @@ I am a Full-Stack Developer with nearly 3 years of experience specializing in we
 
 <br/>
 
-## Feel free to contact me!
+## 🤝 Let's Connect!
 <p align="left">
   <a href="https://www.linkedin.com/in/sgaquilla" target="_blank">
     <img src="https://skillicons.dev/icons?i=linkedin" alt="LinkedIn" />

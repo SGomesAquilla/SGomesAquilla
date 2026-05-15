@@ -24,7 +24,7 @@ I am a Full-Stack Developer with nearly 3 years of experience specializing in we
 
 <br/>
 
-## 🤝 Let's Connect!
+<hr>
 
 <p align="left">
   <a href="https://www.linkedin.com/in/sgaquilla" target="_blank">

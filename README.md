@@ -1,24 +1,24 @@
 ![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=36BC7A&width=500&lines=Full-Stack+Developer;Building+BI+%26+Data+Solutions;Python+%26+TypeScript+Enthusiast)
 
-<p>
-  <img src="https://skillicons.dev/icons?i=js" alt="JS" />&nbsp;
-  <img src="https://skillicons.dev/icons?i=ts" alt="TS" />&nbsp;
-  <img src="https://skillicons.dev/icons?i=nodejs" alt="NodeJS" />&nbsp;
-  <img src="https://skillicons.dev/icons?i=nestjs" alt="NestJS" />&nbsp;
-  <img src="https://skillicons.dev/icons?i=react" alt="React" />&nbsp;
-  <img src="https://skillicons.dev/icons?i=vue" alt="Vue" />&nbsp;
-  <img src="https://skillicons.dev/icons?i=py" alt="Python" />&nbsp;
-  <img src="https://skillicons.dev/icons?i=fastapi" alt="FastAPI" />&nbsp;
-  <img src="https://skillicons.dev/icons?i=sqlite" alt="SQLite" />&nbsp;
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=js" alt="JS" />&nbsp;&nbsp;&nbsp;&nbsp;
+  <img src="https://skillicons.dev/icons?i=ts" alt="TS" />&nbsp;&nbsp;&nbsp;&nbsp;
+  <img src="https://skillicons.dev/icons?i=nodejs" alt="NodeJS" />&nbsp;&nbsp;&nbsp;&nbsp;
+  <img src="https://skillicons.dev/icons?i=nestjs" alt="NestJS" />&nbsp;&nbsp;&nbsp;&nbsp;
+  <img src="https://skillicons.dev/icons?i=react" alt="React" />&nbsp;&nbsp;&nbsp;&nbsp;
+  <img src="https://skillicons.dev/icons?i=vue" alt="Vue" />&nbsp;&nbsp;&nbsp;&nbsp;
+  <img src="https://skillicons.dev/icons?i=py" alt="Python" />&nbsp;&nbsp;&nbsp;&nbsp;
+  <img src="https://skillicons.dev/icons?i=fastapi" alt="FastAPI" />&nbsp;&nbsp;&nbsp;&nbsp;
+  <img src="https://skillicons.dev/icons?i=sqlite" alt="SQLite" />&nbsp;&nbsp;&nbsp;&nbsp;
   <img src="https://skillicons.dev/icons?i=postgresql" alt="PostgreSQL" />
 </p>
 
-I am a Full-Stack Developer with nearly 3 years of experience specializing in web applications, data pipelines, and process automation[cite: 7, 13, 20, 45, 51]. I see programming as a tool to solve real operational bottlenecks. [cite_start]Beyond the code, I focus heavily on empowering my colleagues, driving team momentum, and fostering a healthy, high-performance development environment[cite: 9].
+I am a Full-Stack Developer with nearly 3 years of experience specializing in web applications, data pipelines, and process automation. I see programming as a tool to solve real operational bottlenecks. Beyond the code, I focus heavily on empowering my colleagues, driving team momentum, and fostering a healthy, high-performance development environment.
 
-* [cite_start]📊 **Multi-Tenant BI Web App:** Built a full data dashboard with RBAC security for executives and 20+ franchise owners using `Python`, `Streamlit`, and `Pandas`[cite: 26].
-* [cite_start]⚙️ **Data Automation Pipelines:** Developed web scraping scripts and automated ETL workflows that slashed manual report generation time by 70%[cite: 23, 24, 27].
-* [cite_start]🌐 **Scalable Web Systems:** Architected robust full-stack web platforms and backend services using `TypeScript`, `NestJS`, `React`, and `Supabase`[cite: 15].
-* [cite_start]🖥️ **Desktop Asset Management:** Created local desktop utilities for workflow optimization utilizing `Electron`, `Node.js`, and `JavaScript`[cite: 54].
+* 📊 **Multi-Tenant BI Web App:** Built a full data dashboard with RBAC security for executives and 20+ franchise owners using `Python`, `Streamlit`, and `Pandas`.
+* ⚙️ **Data Automation Pipelines:** Developed web scraping scripts and automated ETL workflows that slashed manual report generation time by 70%.
+* 🌐 **Scalable Web Systems:** Architected robust full-stack web platforms and backend services using `TypeScript`, `NestJS`, `React`, and `Supabase`.
+* 🖥️ **Desktop Asset Management:** Created local desktop utilities for workflow optimization utilizing `Electron`, `Node.js`, and `JavaScript`.
 
 <br/>
 
@@ -26,24 +26,24 @@ I am a Full-Stack Developer with nearly 3 years of experience specializing in we
 
 ### 📊 Web App BI & Data Pipelines (Forneria Original)
 * **Tech Stack:** `Python` | `Streamlit` | `FastAPI` | `Pandas`
-* [cite_start]**The Problem:** The franchise needed to eliminate slow, manual workflows for tracking franchise complaints and brand sales results across dozens of units[cite: 24, 27].
-* [cite_start]**The Solution:** Engineered a multi-tenant BI Web Application with RBAC access control used directly by the board of directors and over 20 franchisees[cite: 26]. [cite_start]Built automated data treatment pipelines and web scraping scripts that **reduced manual report generation time by 70%** (shrinking a 3-day process down to under 24 hours)[cite: 23, 24, 27].
+* **The Problem:** The franchise needed to eliminate slow, manual workflows for tracking franchise complaints and brand sales results across dozens of units.
+* **The Solution:** Engineered a multi-tenant BI Web Application with RBAC access control used directly by the board of directors and over 20 franchisees. Built automated data treatment pipelines and web scraping scripts that **reduced manual report generation time by 70%** (shrinking a 3-day process down to under 24 hours).
 
 ### 🌐 Scalable Web APIs & Freelance Systems
 * **Tech Stack:** `TypeScript` | `NestJS` | `React` | `PostgreSQL` | `Supabase`
-* [cite_start]**The Solution:** Designed and delivered robust full-stack web applications, architecting secure REST APIs, structuring relational databases, and implementing production-ready Git versioning workflows[cite: 15, 16].
+* **The Solution:** Designed and delivered robust full-stack web applications, architecting secure REST APIs, structuring relational databases, and implementing production-ready Git versioning workflows.
 
 <br/>
 
 ## 🤝 Let's Connect!
 
-<p>
+<p align="left">
   <a href="https://www.linkedin.com/in/sgaquilla" target="_blank">
     <img src="https://skillicons.dev/icons?i=linkedin" alt="LinkedIn" />
-  </a>&nbsp;&nbsp;
+  </a>&nbsp;&nbsp;&nbsp;&nbsp;
   <a href="https://github.com/SGomesAquilla" target="_blank">
     <img src="https://skillicons.dev/icons?i=github" alt="GitHub" />
-  </a>&nbsp;&nbsp;
+  </a>&nbsp;&nbsp;&nbsp;&nbsp;
   <a href="mailto:sgomesaquilla@gmail.com">
     <img src="https://skillicons.dev/icons?i=gmail" alt="Gmail" />
   </a>

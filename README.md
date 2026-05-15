@@ -1,9 +1,5 @@
 ![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=36BC7A&width=500&lines=Full-Stack+Developer;Building+BI+%26+Data+Solutions;Python+%26+TypeScript+Enthusiast)
 
-<br/>
-
-# Hello there! 👋
-
 <p align="left">
   <img src="https://skillicons.dev/icons?i=js" alt="JS" />&nbsp;&nbsp;&nbsp;&nbsp;
   <img src="https://skillicons.dev/icons?i=ts" alt="TS" />&nbsp;&nbsp;&nbsp;&nbsp;
@@ -18,6 +14,8 @@
 </p>
 
 <br/>
+
+# Hello there! 👋
 
 I am a Full-Stack Developer with nearly 3 years of experience specializing in web applications and backend systemns, but also workend on data pipelines, and process automation. I see programming as a tool to solve real operational bottlenecks. Beyond the code, I focus heavily on empowering my colleagues, driving team momentum, and fostering a healthy, high-performance development environment.
 

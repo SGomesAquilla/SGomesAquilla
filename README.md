@@ -6,9 +6,6 @@
 
 <div>
   <a href="https://github.com/anuraghazra/github-readme-stats">
-    <img src="https://github-readme-stats.shion.dev/api?username=SGomesAquilla&show_icons=true&theme=dark&hide=stars,prs,issues" alt="SGomesAquilla's GitHub stats" height="185" style="margin-right: 15px;" />
-  </a>&nbsp;&nbsp;
-  <a href="https://github.com/anuraghazra/github-readme-stats">
     <img src="https://github-readme-stats.shion.dev/api/top-langs/?username=SGomesAquilla&layout=compact&theme=dark&exclude_langs=html,css" alt="Top Langs" height="185" />
   </a>
 </div>

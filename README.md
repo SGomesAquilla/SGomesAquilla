@@ -1,11 +1,23 @@
 ![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=36BC7A&width=500&lines=Full-Stack+Developer;Building+BI+%26+Data+Solutions;Python+%26+TypeScript+Enthusiast)
 
-<div>
-  [![My Skills](https://skillicons.dev/icons?i=js,ts,react,nodejs,nestjs,py,fastapi,sqlite,postgresql,vue)](https://skillicons.dev)
-  <a href="https://github.com/anuraghazra/github-readme-stats">
-    <img src="https://github-readme-stats.shion.dev/api/top-langs/?username=SGomesAquilla&layout=compact&theme=dark&exclude_langs=html,css" alt="Top Langs" height="185" />
-  </a>
-</div>
+<table border="0">
+  <tr>
+    <td valign="top" width="50%">
+      <a href="https://skillicons.dev">
+        <img src="https://skillicons.dev/icons?i=js,ts,react,nodejs,nestjs,py,fastapi,sqlite,postgresql,vue&perline=3" alt="My Skills" />
+      </a>
+    </td>
+    <td valign="top" width="50%">
+      <a href="https://github.com/anuraghazra/github-readme-stats">
+        <img src="https://github-readme-stats.shion.dev/api?username=SGomesAquilla&show_icons=true&theme=dark&hide=stars,prs,issues" alt="SGomesAquilla's GitHub stats" height="150" style="margin-bottom: 10px;" />
+      </a>
+      <br/>
+      <a href="https://github.com/anuraghazra/github-readme-stats">
+        <img src="https://github-readme-stats.shion.dev/api/top-langs/?username=SGomesAquilla&layout=compact&theme=dark&exclude_langs=html,css" alt="Top Langs" height="150" />
+      </a>
+    </td>
+  </tr>
+</table>
 
 I am a Full-Stack Developer focused on building high-impact data solutions, process automation, and scalable web applications. I believe that programming is not the final objective, but a powerful tool to solve complex operational problems and optimize workflows. 
 

@@ -1,5 +1,7 @@
 # Hello there! 👋
 
+![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=36BC7A&width=500&lines=Full-Stack+Developer;Building+BI+and+Data+Solutions;Python+%26+TypeScript+Enthusiast)
+
 I am passionate about learning new technologies and using them to develop solutions that optimize people's lives. I am driven by the desire to take on new experiences and challenges to become a well-rounded and experienced professional.
 I have over 2 years of experience in software development creating web and desktop applications focused on solving problems and optimizing processes. To me, writing code without these details in mind is meaningless. Programming is not the final objective, but rather a tool to achieve it.
 

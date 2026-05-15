@@ -1,5 +1,12 @@
 ![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=36BC7A&width=500&lines=Full-Stack+Developer;Building+BI+%26+Data+Solutions;Python+%26+TypeScript+Enthusiast)
 
+<div>
+  [![My Skills](https://skillicons.dev/icons?i=js,ts,react,nodejs,nestjs,py,fastapi,sqlite,postgresql,vue)](https://skillicons.dev)
+  <a href="https://github.com/anuraghazra/github-readme-stats">
+    <img src="https://github-readme-stats.shion.dev/api/top-langs/?username=SGomesAquilla&layout=compact&theme=dark&exclude_langs=html,css" alt="Top Langs" height="185" />
+  </a>
+</div>
+
 I am a Full-Stack Developer focused on building high-impact data solutions, process automation, and scalable web applications. I believe that programming is not the final objective, but a powerful tool to solve complex operational problems and optimize workflows. 
 
 Beyond writing clean code, I focus heavily on collaboration, driving team momentum, and empowering the people around me to build healthy, high-performance development environments.
@@ -18,23 +25,6 @@ Beyond writing clean code, I focus heavily on collaboration, driving team moment
 * **The Solution:** Designed and delivered robust full-stack web applications, architecting secure REST APIs, structuring relational databases, and implementing production-ready Git versioning workflows.
 
 <br>
-
-## 🛠️ Main Skills
-
-[![My Skills](https://skillicons.dev/icons?i=js,ts,react,nodejs,nestjs,py,fastapi,sqlite,postgresql,vue)](https://skillicons.dev)
-
-<br/>
-
-<!-- <div>
-  <a href="https://github.com/anuraghazra/github-readme-stats">
-    <img src="https://github-readme-stats.shion.dev/api?username=SGomesAquilla&show_icons=true&theme=dark&hide=stars,prs,issues" alt="SGomesAquilla's GitHub stats" height="185" style="margin-right: 15px;" />
-  </a>&nbsp;&nbsp;
-  <a href="https://github.com/anuraghazra/github-readme-stats">
-    <img src="https://github-readme-stats.shion.dev/api/top-langs/?username=SGomesAquilla&layout=compact&theme=dark&exclude_langs=html,css" alt="Top Langs" height="185" />
-  </a>
-</div> -->
-
----
 
 ## 🤝 Let's Connect!
 

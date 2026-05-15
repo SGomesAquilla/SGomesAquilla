@@ -23,8 +23,8 @@ Beyond writing clean code, I focus heavily on collaboration, driving team moment
 
 ## 🤝 Let's Connect!
 
-* [![My Skills](https://skillicons.dev/icons?i=linkedin)](https://www.linkedin.com/in/sgaquilla)
-* 🐙 [GitHub Profile](https://github.com/SGomesAquilla)
-* ✉️ [Email Me](mailto:sgomesaquilla@gmail.com)
+[![My Skills](https://skillicons.dev/icons?i=linkedin)](https://www.linkedin.com/in/sgaquilla)
+[![My Skills](https://skillicons.dev/icons?i=github)](https://www.linkedin.com/in/sgaquilla)(https://github.com/SGomesAquilla)
+[![My Skills](https://skillicons.dev/icons?i=gmail)](https://www.linkedin.com/in/sgaquilla)(mailto:sgomesaquilla@gmail.com)
 
 Feel free to explore my repositories or reach out if you want to collaborate on data solutions, web apps, or automation workflows. Happy coding!

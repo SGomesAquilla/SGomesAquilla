@@ -17,8 +17,15 @@ I have over 2 years of experience in software development creating web and deskt
 ## Main Skills
 
 [![My Skills](https://skillicons.dev/icons?i=js,ts,react,nodejs,nestjs,py,fastapi,sqlite,postgresql)](https://skillicons.dev)
-[![Top Langs](https://github-readme-stats.shion.dev/api/top-langs/?username=SGomesAquilla&layout=compact&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
-[![SGomesAquilla's GitHub stats](https://github-readme-stats.shion.dev/api?username=SGomesAquilla&show_icons=true&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
+
+<p align="center">
+  <a href="https://github.com/anuraghazra/github-readme-stats">
+    <img src="https://github-readme-stats.shion.dev/api/top-langs/?username=SGomesAquilla&layout=compact&theme=dark" alt="Top Langs" height="195" />
+  </a>
+  <a href="https://github.com/anuraghazra/github-readme-stats">
+    <img src="https://github-readme-stats.shion.dev/api?username=SGomesAquilla&show_icons=true&theme=dark" alt="SGomesAquilla's GitHub stats" height="195" />
+  </a>
+</p>
 
 ## Let's Connect!
 

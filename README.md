@@ -16,7 +16,7 @@ I have over 2 years of experience in software development creating web and deskt
 
 ## Main Skills
 
-[![My Skills](https://skillicons.dev/icons?i=js,html,css,vue,electron,nodejs)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=js,ts,react,nodejs,nestjs)](https://skillicons.dev)
 [![My Skills](https://skillicons.dev/icons?i=py,django,sqlite)](https://skillicons.dev)
 
 ## Let's Connect!

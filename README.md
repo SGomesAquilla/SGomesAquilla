@@ -15,23 +15,10 @@
 
 I am a Full-Stack Developer with nearly 3 years of experience specializing in web applications, data pipelines, and process automation. I see programming as a tool to solve real operational bottlenecks. Beyond the code, I focus heavily on empowering my colleagues, driving team momentum, and fostering a healthy, high-performance development environment.
 
-* 📊 **Multi-Tenant BI Web App:** Built a full data dashboard with RBAC security for executives and 20+ franchise owners using `Python`, `Streamlit`, and `Pandas`.
-* ⚙️ **Data Automation Pipelines:** Developed web scraping scripts and automated ETL workflows that slashed manual report generation time by 70%.
-* 🌐 **Scalable Web Systems:** Architected robust full-stack web platforms and backend services using `TypeScript`, `NestJS`, `React`, and `Supabase`.
-* 🖥️ **Desktop Asset Management:** Created local desktop utilities for workflow optimization utilizing `Electron`, `Node.js`, and `JavaScript`.
-
-<br/>
-
-## 🚀 Featured Impact & Experience
-
-### 📊 Web App BI & Data Pipelines (Forneria Original)
-* **Tech Stack:** `Python` | `Streamlit` | `FastAPI` | `Pandas`
-* **The Problem:** The franchise needed to eliminate slow, manual workflows for tracking franchise complaints and brand sales results across dozens of units.
-* **The Solution:** Engineered a multi-tenant BI Web Application with RBAC access control used directly by the board of directors and over 20 franchisees. Built automated data treatment pipelines and web scraping scripts that **reduced manual report generation time by 70%** (shrinking a 3-day process down to under 24 hours).
-
-### 🌐 Scalable Web APIs & Freelance Systems
-* **Tech Stack:** `TypeScript` | `NestJS` | `React` | `PostgreSQL` | `Supabase`
-* **The Solution:** Designed and delivered robust full-stack web applications, architecting secure REST APIs, structuring relational databases, and implementing production-ready Git versioning workflows.
+* **Scalable Web Systems:** Architected robust full-stack web platforms and backend services using `TypeScript`, `NestJS`, `React`, and `Supabase`.
+* **Multi-Tenant BI Web App:** Built a full data dashboard with RBAC security for executives and 20+ franchise owners using `Python`, `Streamlit`, and `Pandas`.
+* **Data Automation Pipelines:** Developed web scraping scripts and automated ETL workflows that slashed manual report generation time by 70%.
+* **Desktop Asset Management:** Created local desktop utilities for workflow optimization utilizing `Electron`, `Node.js`, and `JavaScript`.
 
 <br/>
 

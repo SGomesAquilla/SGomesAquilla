@@ -1,19 +1,16 @@
 ![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=36BC7A&width=500&lines=Full-Stack+Developer;Building+BI+%26+Data+Solutions;Python+%26+TypeScript+Enthusiast)
 
-[![My Skills](https://skillicons.dev/icons?i=js,ts,react,nodejs,nestjs,py,fastapi,sqlite,postgresql,vue)](https://skillicons.dev)
-
-<br/>
-
-<div>
+<div style="display: flex; align-items: flex-start; gap: 30px;">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=js,ts,react,nodejs,nestjs,py,fastapi,sqlite,postgresql,vue&perline=4" alt="My Skills" align="left" style="margin-right: 30px;" />
+    <img src="https://skillicons.dev/icons?i=js,ts,react,nodejs,nestjs,py,fastapi,postgresql&perline=4" alt="My Skills" />
   </a>
   <a href="https://github.com/anuraghazra/github-readme-stats">
-    <img src="https://github-readme-stats.shion.dev/api/top-langs/?username=SGomesAquilla&layout=compact&theme=dark&exclude_langs=html,css" alt="Top Langs" height="165" align="right" />
+    <img src="https://github-readme-stats.shion.dev/api/top-langs/?username=SGomesAquilla&layout=compact&theme=dark&exclude_langs=html,css" alt="Top Langs" height="165" />
   </a>
 </div>
 
-<br clear="all" />
+<br/>
+
 I am a Full-Stack Developer focused on building high-impact data solutions, process automation, and scalable web applications. I believe that programming is not the final objective, but a powerful tool to solve complex operational problems and optimize workflows. 
 
 Beyond writing clean code, I focus heavily on collaboration, driving team momentum, and empowering the people around me to build healthy, high-performance development environments.

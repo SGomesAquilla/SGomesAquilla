@@ -16,10 +16,7 @@ I have over 2 years of experience in software development creating web and deskt
 
 ## Main Skills
 
-[![My Skills](https://skillicons.dev/icons?i=js,ts,react,nodejs,nestjs)](https://skillicons.dev)
-[![My Skills](https://skillicons.dev/icons?i=py,fastapi,streamlit)](https://skillicons.dev)
-[![My Skills](https://skillicons.dev/icons?i=sqlite,postgresql)](https://skillicons.dev)
-![Streamlit](https://shields.io)
+[![My Skills](https://skillicons.dev/icons?i=js,ts,react,nodejs,nestjs,py,fastapi,sqlite,postgresql&perline=3)](https://skillicons.dev)
 
 ## Let's Connect!
 

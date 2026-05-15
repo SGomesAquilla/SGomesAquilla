@@ -1,6 +1,6 @@
 ![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=36BC7A&width=500&lines=Full-Stack+Developer;Building+BI+%26+Data+Solutions;Python+%26+TypeScript+Enthusiast)
 
-[![My Skills](https://skillicons.dev/icons?i=js,ts,react,nodejs,nestjs,py,fastapi,sqlite,postgresql,vue)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=js,ts,nodejs,nestjs,react,vue,py,fastapi,sqlite,postgresql)](https://skillicons.dev)
 
 I am a Full-Stack Developer focused on building high-impact data solutions, process automation, and scalable web applications. I believe that programming is not the final objective, but a powerful tool to solve complex operational problems and optimize workflows. 
 
@@ -23,7 +23,7 @@ Beyond writing clean code, I focus heavily on collaboration, driving team moment
 
 ## 🤝 Let's Connect!
 
-* 💼 [LinkedIn](https://www.linkedin.com/in/sgaquilla)
+* [![My Skills](https://skillicons.dev/icons?i=linkedin)](https://www.linkedin.com/in/sgaquilla)
 * 🐙 [GitHub Profile](https://github.com/SGomesAquilla)
 * ✉️ [Email Me](mailto:sgomesaquilla@gmail.com)
 

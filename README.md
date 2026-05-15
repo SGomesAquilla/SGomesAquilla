@@ -17,7 +17,6 @@ I have over 2 years of experience in software development creating web and deskt
 ## Main Skills
 
 [![My Skills](https://skillicons.dev/icons?i=js,ts,react,nodejs,nestjs,py,fastapi,sqlite,postgresql)](https://skillicons.dev)
-![GitHub Metrics](https://github.com/SGomesAquilla/SGomesAquilla/blob/main/github-metrics.svg)
 
 ## Let's Connect!
 

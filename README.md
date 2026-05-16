@@ -19,7 +19,7 @@
 
 I am a Full-Stack Developer with nearly 3 years of experience specializing in web applications and backend systemns, but also workend on data pipelines, and process automation. I see programming as a tool to solve real operational bottlenecks. Beyond the code, I focus heavily on empowering my colleagues, driving team momentum, and fostering a healthy, high-performance development environment.
 
-* **Scalable Web Systems:** Architected robust full-stack web platforms and backend services using `TypeScript`, `NestJS`, `React`, and `Supabase`.
+* **Scalable Web Systems:** Architected full-stack web platforms and backend services using `TypeScript`, `NestJS`, `React`, and `Supabase`.
 * **Multi-Tenant BI Web App:** Built a full data dashboard with RBAC security for executives and 20+ franchise owners using `Python`, `Streamlit`, and `Pandas`.
 * **Data Automation Pipelines:** Developed web scraping scripts and automated ETL workflows that slashed manual report generation time by 70%.
 * **Desktop Asset Management:** Created local desktop utilities for workflow optimization utilizing `Electron`, `Node.js`, and `JavaScript`.

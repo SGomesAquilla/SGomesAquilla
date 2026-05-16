@@ -1,4 +1,4 @@
-![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=36BC7A&width=500&lines=Full-Stack+Developer;Building+BI+%26+Data+Solutions;Python+%26+TypeScript+Enthusiast)
+![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=36BC7A&width=500&lines=Full-Stack+Developer;TypeScript,+NestJS,+React,+Python,+FastAPI)
 
 <p align="left">
   <img src="https://skillicons.dev/icons?i=js" alt="JS" />&nbsp;&nbsp;&nbsp;&nbsp;

@@ -1,27 +1,16 @@
 ![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=36BC7A&width=500&lines=Full-Stack+Developer;Building+BI+%26+Data+Solutions;Python+%26+TypeScript+Enthusiast)
 
 <p align="left">
-
   <img src="https://skillicons.dev/icons?i=js" alt="JS" />&nbsp;&nbsp;&nbsp;&nbsp;
-
   <img src="https://skillicons.dev/icons?i=ts" alt="TS" />&nbsp;&nbsp;&nbsp;&nbsp;
-
   <img src="https://skillicons.dev/icons?i=nodejs" alt="NodeJS" />&nbsp;&nbsp;&nbsp;&nbsp;
-
   <img src="https://skillicons.dev/icons?i=nestjs" alt="NestJS" />&nbsp;&nbsp;&nbsp;&nbsp;
-
   <img src="https://skillicons.dev/icons?i=react" alt="React" />&nbsp;&nbsp;&nbsp;&nbsp;
-
   <img src="https://skillicons.dev/icons?i=vue" alt="Vue" />&nbsp;&nbsp;&nbsp;&nbsp;
-
   <img src="https://skillicons.dev/icons?i=py" alt="Python" />&nbsp;&nbsp;&nbsp;&nbsp;
-
   <img src="https://skillicons.dev/icons?i=fastapi" alt="FastAPI" />&nbsp;&nbsp;&nbsp;&nbsp;
-
   <img src="https://skillicons.dev/icons?i=sqlite" alt="SQLite" />&nbsp;&nbsp;&nbsp;&nbsp;
-
   <img src="https://skillicons.dev/icons?i=postgresql" alt="PostgreSQL" />
-
 </p>
 
 <br/>

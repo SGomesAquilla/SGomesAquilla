@@ -1,16 +1,46 @@
 ![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=36BC7A&width=500&lines=Full-Stack+Developer;Building+BI+%26+Data+Solutions;Python+%26+TypeScript+Enthusiast)
 
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=js" alt="JS" />&nbsp;&nbsp;&nbsp;&nbsp;
-  <img src="https://skillicons.dev/icons?i=ts" alt="TS" />&nbsp;&nbsp;&nbsp;&nbsp;
-  <img src="https://skillicons.dev/icons?i=nodejs" alt="NodeJS" />&nbsp;&nbsp;&nbsp;&nbsp;
-  <img src="https://skillicons.dev/icons?i=nestjs" alt="NestJS" />&nbsp;&nbsp;&nbsp;&nbsp;
-  <img src="https://skillicons.dev/icons?i=react" alt="React" />&nbsp;&nbsp;&nbsp;&nbsp;
-  <img src="https://skillicons.dev/icons?i=vue" alt="Vue" />&nbsp;&nbsp;&nbsp;&nbsp;
-  <img src="https://skillicons.dev/icons?i=py" alt="Python" />&nbsp;&nbsp;&nbsp;&nbsp;
-  <img src="https://skillicons.dev/icons?i=fastapi" alt="FastAPI" />&nbsp;&nbsp;&nbsp;&nbsp;
-  <img src="https://skillicons.dev/icons?i=sqlite" alt="SQLite" />&nbsp;&nbsp;&nbsp;&nbsp;
-  <img src="https://skillicons.dev/icons?i=postgresql" alt="PostgreSQL" />
+  <svg width="600" height="60" viewBox="0 0 600 60" fill="none" xmlns="http://www.w3.org/2000/svg">
+    <style>
+      @media (prefers-reduced-motion: no-preference) {
+        .marquee {
+          animation: scroll 15s linear infinite;
+        }
+      }
+      @keyframes scroll {
+        0% { transform: translateX(0); }
+        100% { transform: translateX(-560px); } /* Perfect loop length for 10 icons */
+      }
+      .track {
+        display: flex;
+        width: max-content;
+      }
+    </style>
+    <g class="marquee">
+      <image href="https://skillicons.dev/icons?i=js" x="0" y="5" height="48" width="48" />
+      <image href="https://skillicons.dev/icons?i=ts" x="56" y="5" height="48" width="48" />
+      <image href="https://skillicons.dev/icons?i=nodejs" x="112" y="5" height="48" width="48" />
+      <image href="https://skillicons.dev/icons?i=nestjs" x="168" y="5" height="48" width="48" />
+      <image href="https://skillicons.dev/icons?i=react" x="224" y="5" height="48" width="48" />
+      <image href="https://skillicons.dev/icons?i=vue" x="280" y="5" height="48" width="48" />
+      <image href="https://skillicons.dev/icons?i=py" x="336" y="5" height="48" width="48" />
+      <image href="https://skillicons.dev/icons?i=fastapi" x="392" y="5" height="48" width="48" />
+      <image href="https://skillicons.dev/icons?i=sqlite" x="448" y="5" height="48" width="48" />
+      <image href="https://skillicons.dev/icons?i=postgresql" x="504" y="5" height="48" width="48" />
+      
+      <image href="https://skillicons.dev/icons?i=js" x="560" y="5" height="48" width="48" />
+      <image href="https://skillicons.dev/icons?i=ts" x="616" y="5" height="48" width="48" />
+      <image href="https://skillicons.dev/icons?i=nodejs" x="672" y="5" height="48" width="48" />
+      <image href="https://skillicons.dev/icons?i=nestjs" x="728" y="5" height="48" width="48" />
+      <image href="https://skillicons.dev/icons?i=react" x="784" y="5" height="48" width="48" />
+      <image href="https://skillicons.dev/icons?i=vue" x="840" y="5" height="48" width="48" />
+      <image href="https://skillicons.dev/icons?i=py" x="896" y="5" height="48" width="48" />
+      <image href="https://skillicons.dev/icons?i=fastapi" x="952" y="5" height="48" width="48" />
+      <image href="https://skillicons.dev/icons?i=sqlite" x="1008" y="5" height="48" width="48" />
+      <image href="https://skillicons.dev/icons?i=postgresql" x="1064" y="5" height="48" width="48" />
+    </g>
+  </svg>
 </p>
 
 <br/>
